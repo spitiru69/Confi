@@ -5,7 +5,7 @@
             "hideicon": false,
             "hideiconafter": 60,
             "iconurl": "https://i.imgur.com/fhvphHv_d.png",
-            "disableicontext": false,
+            "disableicontext": true,
             "iconposition": 0,
             "icontextcolor": 0,
             "openonstart": true,
@@ -20,7 +20,7 @@
                 "content": [
                     {
                         "title": "Servidor Lost Coloniark",
-                        "text": "Este servidor esta creado para la comunidad, lea las normas y espero se divierta \nPor favor considera unirte al discord, por si tiene alguna duda o algun problema dentro del servidor, por ese medio le atenderan mas rapido \n\n Explora la tienda y los kits, y sientete libre de sugerir cualquier item o dino para implementarlo \n\n Los puntos los optienes jugando o intercambiando con otros jugadores\n\nSi necesitas mas informacion de alguna configuracion del server pidela asi sabremos que ams poner en la informacion XD."
+                        "text": "ESTE PANEL LO PUEDES ABRIR SIEMPRE QUE NECESITES PULSANDO F1\n\nEste servidor esta creado para la comunidad, lea las normas y espero se divierta \nPor favor considera unirte al discord, por si tiene alguna duda o algun problema dentro del servidor, por ese medio le atenderan mas rapido \n\n Explora la tienda y los kits, y sientete libre de sugerir cualquier item o dino para implementarlo \n\n Los puntos los optienes jugando o intercambiando con otros jugadores\n\nSi necesitas mas informacion de alguna configuracion del server pidela asi sabremos que ams poner en la informacion XD."
                     }
                 ]
             },
