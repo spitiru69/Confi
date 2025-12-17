@@ -10,13 +10,13 @@
             "icontextcolor": 0,
             "openonstart": true,
             "openonstartonlynewplayers": true,
-            "updateinterval": 12
+            "updateinterval": 1
         },
         "tabs": [
             {
                 "layout": 1,
                 "buttontext": "Bienvenido",
-                "imageurl": "https://imgur.com/a/NDySLPf",
+                "imageurl": "https://i.imgur.com/2DtL5Ck_d.jpeg",
                 "content": [
                     {
                         "title": "Servidor Lost Coloniark",
@@ -27,7 +27,7 @@
             {
                 "layout": 2,
                 "buttontext": "Información",
-                "imageurl": "https://imgur.com/a/xgZqbh7",
+                "imageurl": "https://i.imgur.com/E1KL4Mn_d.jpeg",
                 "content": [
                     {
                         "title": "Normas:",
